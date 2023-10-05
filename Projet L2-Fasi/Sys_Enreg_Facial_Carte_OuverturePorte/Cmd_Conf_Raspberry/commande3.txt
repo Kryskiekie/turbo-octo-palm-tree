@@ -1,0 +1,67 @@
+    1  sudo raspi-config
+    6  sudo apt-get update
+    7  sudo apt-get install -t stretch apache2
+    8  sudo apt-get install apache2
+    9  sudo apt-get install php7.0
+   10  php
+   11  php -v
+   12  sudo apt-get install apache2
+   13  sudo apt-get install php7.0-mysql
+   14  sudo apt-get install -t Stretch apache2
+   15  sudo apt-get install opencv
+   16  dpkg -get-selection
+   17  dpkg -get-selections
+   18  dpkg --help
+   19  clear
+   20  dpkg --get-selections
+   21  clear
+   39  ls
+   40  sudo pip3 install pyserial
+   41  python3 -m pip show pyserial
+   42  sudo apt-get install python3
+   43  sudo apt-get install python3-pip
+   44  sudo apt-get install mysql-server
+   45  sudo apt-get update
+   46  sudo apt-get upgrade
+   47  sudo apt install apache2 -y
+   48  hostname -I
+   49  clear
+   50  sudo usermod -a -g www-data pi
+   51  sudo usermod -a -g www-data chris
+   52  sudo usermod -a -G  www-data chris
+   53  sudo chown -R -f www-data:www-data /var/www/html
+   54  sudo nano /var/www/html/index.html
+   55  sudo apt install php7.4 libapache2-mod-php7.4 php7.4-mbstring php7.4-mysql php7.4-curl php7.4-gd php7.4-zip -y
+   56  sudo nano /var/www/html/date.php
+   57  sudo apt install mysql-server
+   58  sudo apt install mysql-server -y
+   59  sudo apt install php7.4-mysql
+   60  sudo apt install php7.4-mysql-server
+   61  sudo apt-get install mysql-server
+   62  sudo apt install mariadb-server
+   63  sudo mysql_secure_installation
+   64  sudo mysql -u root -p
+   65  sudo apt install php-mysql
+   66  sudo apt install phpmyadmin
+   67  sudo mysql_secure_installation
+   68  sudo apt install phpmyadmin
+   69  clear
+   70  sudo nano /etc/apache2/apache2.conf
+   71  sudo service apache2 restart
+   72  sudo pip3 install mysql
+   73  clear
+   74  sudo apt-get install python-mysqldb
+   75  sudo pip3 install python-mysqldb
+   76  sudo pip3 install python-mysql
+   77  clear
+   78  sudo apt-get install python3-mysql.connector
+   79  sudo apt-get install python3-mysql-connector
+   80  sudo apt install python3-mysql.connector
+   81  sudo pip3 install mysql.connector
+   82  essaie.py
+   83  python essaie.py
+   84  ls
+   85  cd desktop
+   86  cd Desktop
+   87  python essaie.py
+   88  history > commande3.txt

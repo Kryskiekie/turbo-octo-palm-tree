@@ -1,0 +1,5 @@
+
+sudo apt-get install python3 : installe la dernière version de pyhton3
+sudo apt install python3-pip : installe le module pip qui est nécessaire pour installer et gérer tous les paquets de Python3
+sudo pip3 install pyserial : installe le module pyserial
+python3 -m pip show pyserial : pour verifier l'installation de pyserial
